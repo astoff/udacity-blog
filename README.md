@@ -2,8 +2,8 @@ Data Science Blog Post
 ======================
 
 This is my blog post for the data scientist nanodegree.  The code for
-the data analysis is [`explore.py`](explore.ipynb) (see
-[here](expore.html) for a rendered version), and the report/blog post
+the data analysis is [`explore.ipynb`](explore.ipynb) (see
+[here](explore.html) for a rendered version), and the report/blog post
 is [here](blog.md).
 
 The code uses the usual Python libraries, and requires the following
