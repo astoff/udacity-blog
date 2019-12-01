@@ -1,6 +1,8 @@
 Developer careers across the globe: some comparisons
 ====================================================
 
+![An alluring picture](piqsels.com-id-zbfgs.jpg)
+
 How do salaries and career outcomes in the IT sector vary across
 countries?  Evidently, culture and economic reality vary greatly
 across the globe.  On the other hand, the IT sector is very
